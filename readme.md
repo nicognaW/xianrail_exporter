@@ -17,6 +17,6 @@ the [拥挤度](https://www.xianrail.com/static/xianApp/index.html) website.
         - [ ] station passenger in
         - [ ] station passenger turn
     - [ ] thermogram data
-- [ ] Data persistence
+- [ ] Data persistence (consider using <https://github.com/VictoriaMetrics/VictoriaMetrics/>)
 - [ ] Logger (consider using <https://github.com/sirupsen/logrus>)
 - [ ] Test (consider using <https://github.com/onsi/ginkgo>)
